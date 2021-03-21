@@ -1,0 +1,19 @@
+.myCard {
+    margin: auto;
+    text-align: center;
+    width: 20%;
+    color:#05386B ;
+    /* background-color: #8EE4AF; */
+    background-color: rgb(214, 225, 233);
+}
+
+.formField {
+    width: 80%;
+}
+.btn{
+    background-color:rgba(19, 72, 172, 0.76) ;
+    color:#fff;
+}
+.btn:hover{
+    background-color: rgba(10, 56, 143, 0.76);
+}

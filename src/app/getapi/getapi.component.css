@@ -1,0 +1,9 @@
+table {
+    margin: auto;
+    width: 80%;
+    background-color:rgb(214, 225, 233);
+}
+
+th{
+    background-color: #e4e4e4;
+}
